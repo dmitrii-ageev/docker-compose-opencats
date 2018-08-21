@@ -19,6 +19,7 @@ To upgrade to newer releases, simply pull the new image from the Docker hub, rec
 # References
 
  * [OpenCATS project](http://www.opencats.org)
+ * [Project page on GitHub](https://github.com/dmitrii-ageev/docker-compose-opencats)
 
 # Author
 
