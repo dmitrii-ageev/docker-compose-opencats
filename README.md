@@ -8,7 +8,7 @@ Here are examples of how you can use the image.
 
 ```
 # All images are already pre-built. However, if you're keen, you may run "docker-compose build" command before starting up.
-docker-compose --file docker-compose.yml up -d
+docker-compose up -d
 ```
 
 # Upgrading
